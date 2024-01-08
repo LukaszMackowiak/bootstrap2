@@ -1,0 +1,47 @@
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgb(56, 125, 253);
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card {
+    height: 315px;
+    width: 600px;
+}
+
+footer {
+    color: rgb(71, 71, 71);
+    padding-bottom: 80px;
+}
+
+.carousel {
+    height: 200px;
+    width: 600px;
+}
+
+.row {
+    padding: 9px;
+}
+
+#zdjecia {
+    padding-left: 147px;
+}
+
+#wszystkie {
+    padding-left: 86px;
+}
+
+#slider {
+    padding-left: 260px;
+    padding-top: 10px;
+}
